@@ -22,7 +22,7 @@ Simulador VR de evacuación de emergencias con accesibilidad para personas con d
 
 | Nombre | Código | Rol |
 |--------|--------|-----|
-| | | Líder del proyecto |
+|Castro Salazar Mauro| | Líder del proyecto |
 | | | Desarrollador AR/VR |
 | | | Diseñador UX/3D |
 | | | QA / Documentación |
