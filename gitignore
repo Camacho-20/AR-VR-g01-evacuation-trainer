@@ -9,10 +9,6 @@ UserSettings/
 .vscode/
 
 *.csproj
-*.unityproj
 *.sln
 *.user
 *.userprefs
-*.pidb
-*.booproj
-
