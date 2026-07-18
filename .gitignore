@@ -16,3 +16,5 @@ UserSettings/
 *.pidb
 *.booproj
 
+.claude/
+CLAUDE.md
